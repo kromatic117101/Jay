@@ -33,7 +33,7 @@ from playwright.async_api import async_playwright, Browser, Page
 # ============================================================
 # CONFIG
 # ============================================================
-BOT_TOKEN  = "8808870951:AAFyLPLCnHiUtNwY1oWxcZPbHdILjWO4q3Q"
+BOT_TOKEN  = "8808870951:AAFjfhNjsmlRqEPNGYgcL06DJM3SIgZNfCw"
 ALLOWED_ID = 8502412097
 REPL_URL   = "https://replit.com"          # default, /seturl se badlo
 
